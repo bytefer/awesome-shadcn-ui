@@ -53,6 +53,7 @@
 | Bundui | A collection of components that you can copy and paste into your applications. Built with Tailwind CSS and Framer Motion. | https://github.com/bundui/components |
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
+| shadcn/studio | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | https://shadcnstudio.com/ |
 | Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
 | RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
 
