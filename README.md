@@ -31,6 +31,8 @@
 | Convex SaaS | A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn. | https://github.com/get-convex/convex-saas |
 | Next Money Stripe Starter | Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe. | https://github.com/virgoone/next-money |
 
+| CiteMe | AI-powered academic citation generator. Searches 11+ databases and formats in 40+ CSL styles. Built with Next.js 14, Supabase, and TanStack Query. | https://www.citeme.ai/ |
+
 ## UI Libs
 | Name | Description | Link |
 |------|-------------|------|
