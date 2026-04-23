@@ -56,6 +56,7 @@
 | shadcn/studio | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | https://shadcnstudio.com/ |
 | Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
 | RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
+| 21st.dev Agent Elements | Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK. | https://agent-elements.21st.dev |
 
 ## Templates
 | Name | Description | Link |
