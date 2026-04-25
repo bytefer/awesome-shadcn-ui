@@ -34,6 +34,7 @@
 ## UI Libs
 | Name | Description | Link |
 |------|-------------|------|
+| Loading UI | A curated, free, open-source collection of spinners, loaders, and loading-state animations for modern web apps. | https://loading-ui.com/ |
 | Aceternity UI | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. | https://ui.aceternity.com/ |
 | Magic UI | UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. | https://github.com/magicuidesign/magicui |
 | Magic UI Pro | 50+ beautiful sections and templates built with React, Typescript, Tailwind CSS, and Framer Motion. | https://pro.magicui.design/?ref=bytefer |
