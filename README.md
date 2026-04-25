@@ -258,6 +258,8 @@
 | Fellipeutaka/ui | All shadcn/ui components registered in the storybook by JheanAntunes | https://github.com/fellipeutaka/ui |
 
 ## Platforms
+
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS for Bible schools built with React, shadcn/ui, Tailwind CSS, and FastAPI.
 | Name | Description | Link |
 |------|-------------|------|
 | Plotwist | Open-source easy management and reviews of your movies, series and animes. | https://github.com/plotwist-app/plotwist |
