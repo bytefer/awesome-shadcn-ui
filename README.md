@@ -150,6 +150,7 @@
 | Search Address | The SearchAddress component provides a flexible and interactive search interface for addresses, utilizing the powerful Nominatim service from OpenStreetMap. | https://github.com/UretzkyZvi/search-address |
 | Capture Photo | Capture-Photo is a versatile, browser-based React component designed to streamline the integration of camera functionalities directly into your web applications. | https://github.com/UretzkyZvi/capture-photo |
 | React Fancy Switch | React Fancy Switch | https://github.com/Aslam97/react-fancy-switch |
+| react-datatable | Product-ready datatable on TanStack Table with shadcn-style UI and Tailwind; filters, views, virtualization, server pagination and infinite loading; copy-in source. | https://react-datatable.com/docs?utm_source=github&utm_medium=repository&utm_campaign=3rdcom265 |
 | Shadcn Datetime Picker | Beautifully crafted datetime picker component using shadcn ui | https://github.com/Maliksidk19/shadcn-datetime-picker |
 | Crypto Charts | A demo show casing shacn/ui charts with free historical crypto data from pyth. | https://github.com/jstnw10/crypto-charts |
 | Shadcn Calendar Heatmap | Modern alternative to primitive react heatmaps built on top of shadcn/ui calendar component. | https://github.com/gurbaaz27/shadcn-calendar-heatmap |
