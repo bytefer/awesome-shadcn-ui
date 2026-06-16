@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-<a href="https://shadcn.batchtool.com/?utm_source=github">
-<img src="./assets/awesome-shadcn-ui.jpg" alt="og of awesome-shadcn-ui" height="100%" width="100%">
+Find the best open-source alternatives to popular software - <a href='https://www.bestalternative.dev/en?utm_source=github'>bestalternative.dev</a>
+<a href="https://www.bestalternative.dev/en?utm_source=github">
+<img src="./assets/bestalternative.webp" alt="og of bestalternative" height="100%" width="100%">
 </a>
 </div>
 
