@@ -264,6 +264,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 ## Platforms
 | Name | Description | Link |
 |------|-------------|------|
+| UnfoldCMS | Self-hosted Laravel CMS with 210+ admin pages and 51 shadcn/ui components. REST API v1, HMAC webhooks, headless mode for Next.js/Astro/SvelteKit/Nuxt. | https://github.com/hpakdaman/unfoldcms |
 | Plotwist | Open-source easy management and reviews of your movies, series and animes. | https://github.com/plotwist-app/plotwist |
 | Infinitunes | A Simple Music Player Web App built using Next.js,shadcn/ui,Tailwind CSS,DrizzleORM and more... | https://github.com/rajput-hemant/infinitunes |
 | Bolhadev | The quickest path to learn English is speaking it regularly. Just find someone to chat with. | https://github.com/brunocroh/bolhadev.chat |
