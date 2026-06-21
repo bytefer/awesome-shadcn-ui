@@ -61,6 +61,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
 | 21st.dev Agent Elements | Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK. | https://agent-elements.21st.dev |
 | Trophy UI | Open-source gamification UI components for streaks, achievements, leaderboards, points, and more. Built on shadcn/ui and Tailwind CSS. | https://ui.trophy.so |
+| agentcn | Production-ready agents, made simple. Ready to use, customizable AI agent recipes. Built on Eve and Flue. | https://agentcn.vercel.app |
 
 ## Templates
 | Name | Description | Link |
