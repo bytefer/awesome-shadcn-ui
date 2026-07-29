@@ -63,6 +63,8 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Trophy UI | Open-source gamification UI components for streaks, achievements, leaderboards, points, and more. Built on shadcn/ui and Tailwind CSS. | https://ui.trophy.so |
 | UIAble | UIAble is built on top of shadcn/ui with a vivid design system, production-ready open-source React components, and complete code ownership. | https://github.com/codedthemes/uiable |
 
+| Payload Components | 67 MIT typed Payload CMS blocks for Payload v3 + Next.js 15/16; installed as owned source with automated Pages, renderer, types, and admin import-map wiring. | https://www.payload-components.xyz/ |
+
 ## Templates
 | Name | Description | Link |
 |------|-------------|------|
