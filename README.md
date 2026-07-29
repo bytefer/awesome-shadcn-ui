@@ -31,6 +31,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | SaasHQ | Saas CRM/ERP Starter Kit for Nextjs Prisma and Postgres. An excellent resource for buildnig things in Nextjs. | https://github.com/saashqdev/saashq |
 | Convex SaaS | A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn. | https://github.com/get-convex/convex-saas |
 | Next Money Stripe Starter | Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe. | https://github.com/virgoone/next-money |
+| MailKite SaaS Starter | Production-ready Next.js 15 SaaS starter: self-contained auth (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first shadcn/ui. | https://github.com/mailkite/saas-startup |
 
 ## UI Libs
 | Name | Description | Link |
