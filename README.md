@@ -58,6 +58,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
 | shadcn/studio | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | https://shadcnstudio.com/ |
 | Shadcnblocks | Premium shadcn/ui blocks, component variants, templates, themes, and admin dashboard patterns for React, Next.js, Astro, and Tailwind CSS. | https://www.shadcnblocks.com/ |
+| ShadcnStore | Build modern interfaces faster with premium shadcn/ui components, blocks, templates, pages, UI kits, and Figma resources built on Base UI. | https://www.shadcnstore.com/ |
 | Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
 | RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
 | 21st.dev Agent Elements | Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK. | https://agent-elements.21st.dev |
@@ -74,6 +75,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | next-shadcn-dashboard-starter | Admin Dashboard Starter with Next.js 14 and shadcn/ui. | https://github.com/Kiranism/next-shadcn-dashboard-starter |
 | NextMaster | A highly performant e-commerce template using Next.js. | https://github.com/ethanniser/NextFaster |
 | shadcn-landing-page | Landing page template using shadcn/ui,React,Typescript and Tailwind CSS. | https://github.com/leoMirandaa/shadcn-landing-page |
+| shadcn-dashboard-landing-template | A curated collection of open-source shadcn/ui pages, dashboards, and landing pages for faster development. | https://github.com/shadcnstore/shadcn-dashboard-landing-template |
 | chadnext | Quick Starter Template includes Next.js 14 App router,shadcn/ui,LuciaAuth,Prisma,Server Actions,Stripe,Internationalization and more. | https://github.com/moinulmoin/chadnext |
 | Landing page boilerplate | A versatile landing page boilerplate, ideal for various projects and marketing campaigns. | https://github.com/weijunext/landing-page-boilerplate |
 | next-starter | A Next.js starter template,packed with features like TypeScript,Tailwind CSS,Next-auth,Eslint,Stripe,testing tools and more. Jumpstart your project with efficiency and style. | https://github.com/Skolaczk/next-starter |
