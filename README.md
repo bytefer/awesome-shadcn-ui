@@ -196,6 +196,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Fluid Tailwind | Build better responsive designs in less code. | https://github.com/barvian/fluid-tailwind |
 | Opensearch AI | SearchGPT / Perplexity clone,but personalised for you. | https://github.com/supermemoryai/opensearch-ai |
 | Shadcn Chat | CLI for adding customizable and re-usable chat components to your applications. | https://github.com/jakobhoeg/shadcn-chat |
+| Memi | Agent design CI for shadcn/ui and Tailwind with focused Agent Skills, UI audits, token extraction, component scaffolds, accessibility checks, and quality gates. | https://github.com/sarveshsea/memi |
 | Memfree | Open Source Hybrid AI Search Engine,Instantly Get Accurate Answers from the Internet,Bookmarks,Notes,and Docs. Support One-Click Deployment. It built using Next.js,Typescript,and shadcn/ui. | https://github.com/memfreeme/memfree |
 | Shadcn Form Builder | Create forms with Shadcn,react-hooks-form and zod within minutes | https://github.com/hasanharman/form-builder |
 | Invoify | An invoice generator app built using Next.js,Typescript,and shadcn/ui | https://github.com/aliabb01/invoify |
