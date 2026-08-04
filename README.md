@@ -175,6 +175,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Recursive Dnd Kanban Board | Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui | https://github.com/mehrdadrafiee/recursive-dnd-kanban-board |
 | Clerk Elements | Composable components that can be used to build custom UIs on top of Clerk's APIs. | https://clerk.com/docs/customization/elements/examples/shadcn-ui |
 | Simplekit | Responsive connect wallet and account component built on top of Wagmi and shadcn/ui. | https://github.com/vaunblu/SimpleKit |
+| Shadcn Store | Ready-to-Use Shadcn Blocks for Faster, Smarter Builds | https://shadcnstore.com |
 
 ## Colors And Customizations
 | Name | Description | Link |
@@ -221,6 +222,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Imgsrc | Generate beautiful Open Graph images with zero effort. | https://imgsrc.io/ |
 | Shadcn Pricing Page Generator | The easiest way to get a React pricing page with shadcn/ui,Radix UI and/or Tailwind CSS. | https://shipixen.com/shadcn-pricing-page |
 | V0 | Vercel's generative UI system,built on shadcn/ui and TailwindCSS,allows effortless UI generation from text prompts and/or images. It produces React and HTML code,integration is also possible via v0 CLI command. | https://v0.dev/ |
+| Cheatsheet | A comprehensive, interactive reference for shadcn/ui components with live previews, code examples, and instant copy functionality. | https://shadcnstore.com/cheatsheet |
 
 ## Extensions
 | Name | Description | Link |
