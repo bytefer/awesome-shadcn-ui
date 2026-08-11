@@ -63,6 +63,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | 21st.dev Agent Elements | Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK. | https://agent-elements.21st.dev |
 | Trophy UI | Open-source gamification UI components for streaks, achievements, leaderboards, points, and more. Built on shadcn/ui and Tailwind CSS. | https://ui.trophy.so |
 | UIAble | UIAble is built on top of shadcn/ui with a vivid design system, production-ready open-source React components, and complete code ownership. | https://github.com/codedthemes/uiable |
+| snapcn | Video components that look like software, for Remotion: AI answer streams, terminal sessions, device frames, captions and full scenes. | https://snapcn.dev |
 
 ## Templates
 | Name | Description | Link |
