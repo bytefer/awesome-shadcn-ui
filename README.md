@@ -288,6 +288,11 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Payment Gateways Demo | This project demonstrates the integration of multiple payment gateways, including Stripe, Razorpay, PayPal and Coinbase using Next.js 14. It showcases how to implement these popular payment solutions in a web application. | https://github.com/PremPrakashCodes/payment-gateways |
 | Shadcn Admin | Admin Dashboard UI built with Shadcn and Vite. | https://github.com/satnaing/shadcn-admin |
 
+## Registries
+| Name | Description | Link |
+|------|-------------|------|
+| n3wth/kit | shadcn registry with AI context packs at kit.n3wth.com | https://github.com/n3wth/kit |
+
 ## Contributing
 
 Discover something fantastic, like a package, article, blog, video, or any other valuable resource? Feel free to contribute by sending a pull request! Your participation is highly appreciated. Thank you! ❤️
