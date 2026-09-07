@@ -99,6 +99,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | horizon-ai-nextjs-shadcn-boilerplate | Premium AI NextJS & shadcn/ui Boilerplate + Stripe + Supabase + OAuth | https://horizon-ui.com/boilerplate-shadcn |
 | template-next | A clean Next.js template with TypeScript,TailwindCSS,Shadcn/ui,and Prettier. | https://template-next-official.vercel.app/ |
 | React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |*
+| Hype Stack | Fullstack SaaS monorepo template with React, Hono, Vite, Electron, Expo, and shadcn/ui. | https://github.com/BetterTyped/hype-stack |
 
 ## Components
 | Name | Description | Link |
