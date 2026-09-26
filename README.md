@@ -101,6 +101,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | template-next | A clean Next.js template with TypeScript,TailwindCSS,Shadcn/ui,and Prettier. | https://template-next-official.vercel.app/ |
 | React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |*
 | Hype Stack | Fullstack SaaS monorepo template with React, Hono, Vite, Electron, Expo, and shadcn/ui. | https://github.com/BetterTyped/hype-stack |
+| shadcn-vite-starter | Vite and React starter with shadcn/ui on Base UI, set up so coding agents stick to its patterns, with routing, data fetching, forms and tables already wired. | https://github.com/7ovr/shadcn-vite-starter |
 
 ## Components
 | Name | Description | Link |
