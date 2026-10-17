@@ -75,6 +75,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | next-shadcn-dashboard-starter | Admin Dashboard Starter with Next.js 14 and shadcn/ui. | https://github.com/Kiranism/next-shadcn-dashboard-starter |
 | NextMaster | A highly performant e-commerce template using Next.js. | https://github.com/ethanniser/NextFaster |
 | shadcn-landing-page | Landing page template using shadcn/ui,React,Typescript and Tailwind CSS. | https://github.com/leoMirandaa/shadcn-landing-page |
+| OTF Summit Template | Paid ($9) launch-ready landing page template with hero, pricing, FAQ and waitlist sections, preview it live before you buy. | https://summit.otf-kit.dev |
 | chadnext | Quick Starter Template includes Next.js 14 App router,shadcn/ui,LuciaAuth,Prisma,Server Actions,Stripe,Internationalization and more. | https://github.com/moinulmoin/chadnext |
 | Landing page boilerplate | A versatile landing page boilerplate, ideal for various projects and marketing campaigns. | https://github.com/weijunext/landing-page-boilerplate |
 | next-starter | A Next.js starter template,packed with features like TypeScript,Tailwind CSS,Next-auth,Eslint,Stripe,testing tools and more. Jumpstart your project with efficiency and style. | https://github.com/Skolaczk/next-starter |
