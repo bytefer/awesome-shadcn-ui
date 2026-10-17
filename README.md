@@ -32,6 +32,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Convex SaaS | A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn. | https://github.com/get-convex/convex-saas |
 | Next Money Stripe Starter | Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe. | https://github.com/virgoone/next-money |
 | MailKite SaaS Starter | Production-ready Next.js 15 SaaS starter: self-contained auth (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first shadcn/ui. | https://github.com/mailkite/saas-startup |
+| OTF SaaS Dashboard Kit | Paid ($99) production-ready SaaS dashboard starter with billing pages, team workspaces and a live demo before you buy. | https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-17-saas-kit-bytefer |
 
 ## UI Libs
 | Name | Description | Link |
