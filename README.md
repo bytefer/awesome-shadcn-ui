@@ -64,6 +64,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Trophy UI | Open-source gamification UI components for streaks, achievements, leaderboards, points, and more. Built on shadcn/ui and Tailwind CSS. | https://ui.trophy.so |
 | UIAble | UIAble is built on top of shadcn/ui with a vivid design system, production-ready open-source React components, and complete code ownership. | https://github.com/codedthemes/uiable |
 | AI Canvas | Animated React components and UI blocks built with TypeScript, Tailwind CSS and Framer Motion. Free library is MIT and installs through the shadcn CLI; many components ship with an AI remix prompt. | https://aicanvas.me |
+| We.Inc Components | 667 free React and Tailwind CSS components and page sections in 35 categories, each with a live preview, the React code, a plain HTML version and a shadcn CLI install command. | https://we.inc/components |
 
 ## Templates
 | Name | Description | Link |
