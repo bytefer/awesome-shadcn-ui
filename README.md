@@ -257,6 +257,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 |------|-------------|------|
 | Animata | Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. | https://github.com/codse/animata |
 | Motionvariants | A collection of handmade Framer Motion variants made for your next project. | https://github.com/chrisabdo/motionvariants |
+| qodesign-free | Free MIT animated React components and two dashboards, installable with the shadcn CLI and also shipped as single HTML files. A paid catalog lives at qodesign.dev. | https://github.com/teodoravadani/qodesign-free |
 
 ## Design System
 | Name | Description | Link |
