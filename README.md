@@ -177,6 +177,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Recursive Dnd Kanban Board | Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui | https://github.com/mehrdadrafiee/recursive-dnd-kanban-board |
 | Clerk Elements | Composable components that can be used to build custom UIs on top of Clerk's APIs. | https://clerk.com/docs/customization/elements/examples/shadcn-ui |
 | Simplekit | Responsive connect wallet and account component built on top of Wagmi and shadcn/ui. | https://github.com/vaunblu/SimpleKit |
+| Babelize Elements | Open-source localization components for shadcn/ui: language switchers, locale pickers, locale-aware number and relative-time formatters, a phone input and a translation widget. | https://github.com/babelize/babelize-elements |
 
 ## Colors And Customizations
 | Name | Description | Link |
