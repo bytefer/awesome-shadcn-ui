@@ -36,6 +36,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 ## UI Libs
 | Name | Description | Link |
 |------|-------------|------|
+| Glassy UI | Free, open-source glass components for React, with React Native versions and shadcn CLI installation. | https://glassyui.com/ |
 | Loading UI | A curated, free, open-source collection of spinners, loaders, and loading-state animations for modern web apps. | https://loading-ui.com/ |
 | Aceternity UI | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. | https://ui.aceternity.com/ |
 | Magic UI | UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. | https://github.com/magicuidesign/magicui |
