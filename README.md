@@ -64,6 +64,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Trophy UI | Open-source gamification UI components for streaks, achievements, leaderboards, points, and more. Built on shadcn/ui and Tailwind CSS. | https://ui.trophy.so |
 | UIAble | UIAble is built on top of shadcn/ui with a vivid design system, production-ready open-source React components, and complete code ownership. | https://github.com/codedthemes/uiable |
 | Warren UI | Data-dense instrument-panel components for ops and monitoring consoles, distributed as a shadcn registry. Install with the shadcn CLI and own the source. | https://warren.eduard3v.com |
+| AI Canvas | Animated React components and UI blocks built with TypeScript, Tailwind CSS and Framer Motion. Free library is MIT and installs through the shadcn CLI; many components ship with an AI remix prompt. | https://aicanvas.me |
 
 ## Templates
 | Name | Description | Link |
@@ -100,6 +101,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | horizon-ai-nextjs-shadcn-boilerplate | Premium AI NextJS & shadcn/ui Boilerplate + Stripe + Supabase + OAuth | https://horizon-ui.com/boilerplate-shadcn |
 | template-next | A clean Next.js template with TypeScript,TailwindCSS,Shadcn/ui,and Prettier. | https://template-next-official.vercel.app/ |
 | React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |*
+| Hype Stack | Fullstack SaaS monorepo template with React, Hono, Vite, Electron, Expo, and shadcn/ui. | https://github.com/BetterTyped/hype-stack |
 
 ## Components
 | Name | Description | Link |
