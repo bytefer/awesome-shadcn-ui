@@ -257,6 +257,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 |------|-------------|------|
 | Animata | Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. | https://github.com/codse/animata |
 | Motionvariants | A collection of handmade Framer Motion variants made for your next project. | https://github.com/chrisabdo/motionvariants |
+| gradients.sh | Animated mesh, aurora and grain gradient backgrounds for React that install with the shadcn CLI; free MIT components plus a paid Pro collection. | https://gradients.sh |
 
 ## Design System
 | Name | Description | Link |
