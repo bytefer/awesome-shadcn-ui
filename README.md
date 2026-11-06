@@ -223,6 +223,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Imgsrc | Generate beautiful Open Graph images with zero effort. | https://imgsrc.io/ |
 | Shadcn Pricing Page Generator | The easiest way to get a React pricing page with shadcn/ui,Radix UI and/or Tailwind CSS. | https://shipixen.com/shadcn-pricing-page |
 | V0 | Vercel's generative UI system,built on shadcn/ui and TailwindCSS,allows effortless UI generation from text prompts and/or images. It produces React and HTML code,integration is also possible via v0 CLI command. | https://v0.dev/ |
+| browsable.dev | Search 51,000 UI components from 313 shadcn registries by describing what you need. Every result says what its code is built with before you install it. | https://browsable.dev |
 
 ## Extensions
 | Name | Description | Link |
