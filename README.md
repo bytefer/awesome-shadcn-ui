@@ -42,6 +42,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Magic UI Pro | 50+ beautiful sections and templates built with React, Typescript, Tailwind CSS, and Framer Motion. | https://pro.magicui.design/?ref=bytefer |
 | Horizon UI | The trendiest & innovative Open Source Admin Template for Chakra UI & React. | https://github.com/horizon-ui/horizon-ui-chakra |
 | Assistant UI | React Components for AI Chat 💬 🚀. | https://github.com/Yonom/assistant-ui |
+| Cuelark UI | Accessible React/shadcn components with an AI agent UI kit (chat, reasoning, tool calls, approvals, citations, traces), GSAP motion, MIT. | https://ui.cuelark.com |
 | Cult UI | Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. | https://github.com/nolly-studio/cult-ui |
 | Eldora UI | Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. | https://github.com/karthikmudunuri/eldoraui |
 | Page UI | Landing page UI components for React & Next.js, built on top of TailwindCSS. | https://github.com/danmindru/page-ui |
