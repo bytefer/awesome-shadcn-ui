@@ -277,6 +277,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Memergez | Quickly generate memes by entering text or an avatar URL,with support for many meme commands. | https://github.com/avalynndev/memergez |
 | Grade Calculator | A grade calculator/dashboard for students,aiming to provide a better overview on the academic performance. | https://github.com/noahstreller/grade-calculator |
 | Crept Studio | Crept is a free Open Source project,made on top of Next.js,Tailwind CSS and Shadcn UI. You can use it to deliver free Tv shows and Movies. | https://github.com/theteleporter/crept-main |
+| anon.li | Open-source privacy suite: email aliases, end-to-end encrypted file sharing and encrypted forms. UI built with shadcn/ui; free plan and paid tiers. | https://github.com/anondotli/anon.li |
 
 ## Portfolios
 | Name | Description | Link |
