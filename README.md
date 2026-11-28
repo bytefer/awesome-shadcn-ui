@@ -177,6 +177,7 @@ Find the best open-source alternatives to popular software - <a href='https://ww
 | Recursive Dnd Kanban Board | Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui | https://github.com/mehrdadrafiee/recursive-dnd-kanban-board |
 | Clerk Elements | Composable components that can be used to build custom UIs on top of Clerk's APIs. | https://clerk.com/docs/customization/elements/examples/shadcn-ui |
 | Simplekit | Responsive connect wallet and account component built on top of Wagmi and shadcn/ui. | https://github.com/vaunblu/SimpleKit |
+| ChartslibraryUI | 47 React chart components for finance, SaaS and analytics dashboards, installed through the shadcn CLI registry; 26 free (MIT), 21 Pro. | https://chartslibraryui.com |
 
 ## Colors And Customizations
 | Name | Description | Link |
